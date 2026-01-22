@@ -13,10 +13,10 @@ An end-to-end **Swiggy dataset cleaning and analysis project**, where raw multi-
 ---
 
 # 🌐 Dashboard
-![Dashboard 1](Dashboard_Screenshot\Dashboard_1.jpg)
-![Dashboard 2](Dashboard_Screenshot\Dashboard_2.jpg)
-![Dashboard 3](Dashboard_Screenshot\Dashboard_3.jpg)
-![Dashboard 4](Dashboard_Screenshot\Dashboard_4.jpg)
+![Dashboard 1](Dashboard_Screenshot/Dashboard_1.jpg)
+![Dashboard 2](Dashboard_Screenshot/Dashboard_2.jpg)
+![Dashboard 3](Dashboard_Screenshot/Dashboard_3.jpg)
+![Dashboard 4](Dashboard_Screenshot/Dashboard_4.jpg)
 
 
 
